@@ -1,0 +1,1 @@
+An interface for posting snippets to a gitlab instance
